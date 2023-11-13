@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "@dydxprotocol/v4-client-js": "^1.0.4",
+    "lodash": "^4.17.21",
+    "ts-node": "^10.9.1",
+    "typescript": "^5.2.2"
+  }
+}
