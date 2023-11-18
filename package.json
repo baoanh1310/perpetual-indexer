@@ -1,8 +1,13 @@
 {
   "dependencies": {
+    "@dydxprotocol/v3-client": "^1.15.0",
     "@dydxprotocol/v4-client-js": "^1.0.4",
+    "dotenv": "^16.3.1",
+    "ethers": "^6.8.1",
     "lodash": "^4.17.21",
     "ts-node": "^10.9.1",
-    "typescript": "^5.2.2"
+    "typescript": "^5.2.2",
+    "web3": "^4.2.2",
+    "web3-core": "^4.3.1"
   }
 }
